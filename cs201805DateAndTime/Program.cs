@@ -8,6 +8,11 @@ namespace cs201805DateAndTime
 {
     class Program
     {
+
+        //*************************************************************
+        // Summering
+        //*************************************************************
+
         static void Main(string[] args)
         {   // Opgave 1
             DateTime d1;
@@ -53,6 +58,9 @@ namespace cs201805DateAndTime
 
 
             Console.Read();
+
+
+       
         }
     }
 }

@@ -12,6 +12,7 @@ namespace cs201805DateAndTime
         {   // Opgave 1
             DateTime d1;
             d1 = DateTime.Now;
+
             Console.WriteLine(d1.ToString());
 
             // Opgave 2

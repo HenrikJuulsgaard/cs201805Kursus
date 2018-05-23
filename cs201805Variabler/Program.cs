@@ -25,7 +25,7 @@ class Program
             int n = 10;
             ++n;
             --n;
-            n += 20;
+            n += 21;
             Console.WriteLine(n.ToString());
 
             // Opgave 2

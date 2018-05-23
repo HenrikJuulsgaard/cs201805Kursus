@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGroundAppV100", "PlayGroundApp\PlayGroundAppV100.csproj", "{E6B0375F-05D4-4C18-8DB6-61477886C645}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs201805Variabler", "cs201805Variabler\cs201805Variabler.csproj", "{80473E0D-7280-4054-8700-C3F0FDA0D1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs201805DateAndTime", "cs201805DateAndTime\cs201805DateAndTime.csproj", "{11B94C5B-B016-4E19-9212-18D6DEA25E2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E6B0375F-05D4-4C18-8DB6-61477886C645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6B0375F-05D4-4C18-8DB6-61477886C645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6B0375F-05D4-4C18-8DB6-61477886C645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80473E0D-7280-4054-8700-C3F0FDA0D1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80473E0D-7280-4054-8700-C3F0FDA0D1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80473E0D-7280-4054-8700-C3F0FDA0D1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80473E0D-7280-4054-8700-C3F0FDA0D1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B94C5B-B016-4E19-9212-18D6DEA25E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B94C5B-B016-4E19-9212-18D6DEA25E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B94C5B-B016-4E19-9212-18D6DEA25E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B94C5B-B016-4E19-9212-18D6DEA25E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

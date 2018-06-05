@@ -21,6 +21,7 @@ namespace cd201805_ArraySort
             ArrayResultat LocArr = new ArrayResultat();
             LocArr.gns = arr.Average();
             LocArr.sum = arr.Sum();
+            Array.Sort(arr);
             return LocArr;
         }
 

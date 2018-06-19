@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cd201805 ArraySort", "cd201
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs201806 OOP", "OOP\cs201806 OOP.csproj", "{191BDBF6-74D4-49D6-81F4-572ED508CEF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenException", "EgenException\EgenException.csproj", "{83DBF8C4-29C7-4752-AA15-92560B8F2ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs201806 BrugAfNlog", "BrugAfNlog\cs201806 BrugAfNlog.csproj", "{B57CF70A-9E6F-43C4-97C4-C7D0099459D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{191BDBF6-74D4-49D6-81F4-572ED508CEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{191BDBF6-74D4-49D6-81F4-572ED508CEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{191BDBF6-74D4-49D6-81F4-572ED508CEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DBF8C4-29C7-4752-AA15-92560B8F2ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DBF8C4-29C7-4752-AA15-92560B8F2ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DBF8C4-29C7-4752-AA15-92560B8F2ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DBF8C4-29C7-4752-AA15-92560B8F2ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57CF70A-9E6F-43C4-97C4-C7D0099459D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57CF70A-9E6F-43C4-97C4-C7D0099459D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57CF70A-9E6F-43C4-97C4-C7D0099459D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57CF70A-9E6F-43C4-97C4-C7D0099459D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
